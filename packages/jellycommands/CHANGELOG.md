@@ -1,5 +1,13 @@
 # jellycommands
 
+## 1.0.0-next.18
+
+### Patch Changes
+
+-   f5c3c56: improve cahce by checking ids in cache not structure
+-   8424b28: global dev mode
+-   f5c3c56: make login method responsible for creating CommandManager
+
 ## 1.0.0-next.17
 
 ### Patch Changes
